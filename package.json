@@ -1,5 +1,5 @@
 {
-  "name": "tsorimongo",
+  "name": "@origamicore/mongo",
   "version": "1.0.0",
   "description": "typescript origami mongo",
   "main": "dist/index.js",
