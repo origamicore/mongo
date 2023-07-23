@@ -1,0 +1,24 @@
+{
+  "name": "tsorimongo",
+  "version": "1.0.0",
+  "description": "typescript origami mongo",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc",
+    "sample": "node ./dist/sample/databaseSample",
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/origamiicore/ts-modules/tree/main/tsorimongo"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^4.6.0",
+    "odata-v4-parser": "^0.1.29",
+    "@origamicore/core": "^4.0.1",
+    "typescript": "^4.7.2"
+  }
+}
