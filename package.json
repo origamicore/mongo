@@ -16,6 +16,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@types/node": "^17.0.45",
     "mongodb": "^4.6.0",
     "odata-v4-parser": "^0.1.29",
     "@origamicore/core": "^4.0.1",

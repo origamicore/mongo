@@ -1,7 +1,7 @@
 # TypeScript TsOriMongo
 
 ## Installation
-OrigamiEndpoint requires [OrigamiCore](https://www.npmjs.com/package/@origamicore/core)  to run.
+OrigamiMongo requires [OrigamiCore](https://www.npmjs.com/package/@origamicore/core)  to run.
 ```sh
 npm install @origamicore/core
 npm install @origamicore/mongo
